@@ -1,5 +1,8 @@
 #ESP8266 01 Information
 
-## Image
+## Images
 
-## Pin diagram
+## Pins diagram
+
+## Firmwares
+
