@@ -1,7 +1,7 @@
 #ESP8266 01 Information
 
 ## Images
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png)
+![alt text](https://github.com/htpl/esp8266-beginning/blob/master/ESP8266-01-800-300x237.jpg?raw=true)
 ## Pins diagram
 
 ## Firmwares
